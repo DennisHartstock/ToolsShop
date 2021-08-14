@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/ToolsShop/app/src/main/res/layout/activity_main.xml" value="0.24358974358974358" />
+        <entry key="..\:/AndroidStudioProjects/ToolsShop/app/src/main/res/layout/activity_drill_category.xml" value="0.24739583333333334" />
+        <entry key="..\:/AndroidStudioProjects/ToolsShop/app/src/main/res/layout/activity_drill_detail.xml" value="0.24739583333333334" />
+        <entry key="..\:/AndroidStudioProjects/ToolsShop/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
