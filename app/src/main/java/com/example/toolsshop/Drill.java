@@ -4,9 +4,9 @@ import androidx.annotation.NonNull;
 
 public class Drill {
 
-    private String title;
-    private String info;
-    private int imageResourceId;
+    private final String title;
+    private final String info;
+    private final int imageResourceId;
 
     public Drill(String title, String info, int imageResourceId) {
         this.title = title;
